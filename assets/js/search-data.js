@@ -72,12 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-online-bipartite-matching-in-the-probe-commit-model-is-accepted-to-mathematical-programming",
+            },{id: "news-online-bipartite-matching-in-the-probe-commit-model-is-accepted-to-mathematical-programming",
           title: 'Online Bipartite Matching in the Probe-Commit Model is accepted to Mathematical Programming ....',
           description: "",
           section: "News",},{id: "news-i-presented-at-the-junior-theorists-workshop-jointly-held-at-northwestern-university-and-the-toyota-technological-institute",
