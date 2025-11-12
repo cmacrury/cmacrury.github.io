@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "CV",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -77,16 +77,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-online-bipartite-matching-in-the-probe-commit-model-is-accepted-to-mathematical-programming",
+          title: 'Online Bipartite Matching in the Probe-Commit Model is accepted to Mathematical Programming ....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-presented-at-the-junior-theorists-workshop-jointly-held-at-northwestern-university-and-the-toyota-technological-institute",
+          title: 'I presented at the Junior Theorists Workshop, jointly held at Northwestern University and...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-proportionally-fair-matching-algorithms-via-randomized-rounding-is-accepted-to-aaai-2025-as-an-oral-presentation",
+          title: 'Proportionally Fair Matching Algorithms via Randomized Rounding is accepted to AAAI 2025 as...',
+          description: "",
+          section: "News",},{id: "news-extending-wormald-s-differential-equation-method-to-one-sided-bounds-is-accepted-to-combinatorics-probability-and-computing",
+          title: 'Extending Wormald’s Differential Equation Method to One-sided Bounds is accepted to Combinatorics, Probability...',
+          description: "",
+          section: "News",},{id: "news-building-hamiltonian-cycles-in-the-semi-random-graph-process-in-less-than-2n-rounds-is-accepted-to-european-journal-of-combinatorics",
+          title: 'Building Hamiltonian Cycles in the Semi-Random Graph Process in Less Than 2n Rounds...',
+          description: "",
+          section: "News",},{id: "news-new-paper-with-will-ma-and-cliff-stein-forward-backward-contention-resolution-schemes-for-fair-rationing",
+          title: 'New paper with Will Ma and Cliff Stein: Forward-backward Contention Resolution Schemes for...',
+          description: "",
+          section: "News",},{id: "news-online-contention-resolution-schemes-for-network-revenue-management-and-combinatorial-auctions-is-accepted-to-itcs-2026",
+          title: 'Online Contention Resolution Schemes for Network Revenue Management and Combinatorial Auctions is accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
