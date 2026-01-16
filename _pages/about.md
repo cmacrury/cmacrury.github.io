@@ -37,4 +37,4 @@ I'm interested in optimization under uncertainty, particularly in the presence o
 This includes problems such as prophet inequalities, assortment optimization, and stochastic matching. A focus
 of my work is designing algorithms for these problems via randomized rounding tools.
 
-Linked <a href="https://www.youtube.com/watch?v=8NSxHFOyD_Q&t=546s">here</a> is a talk which I gave that summarizes some of my recent research.
+Linked <a href="https://www.birs.ca/events/2025/5-day-workshops/25w5464/videos/watch/202503070920-MacRury.html">here</a> is a talk which I gave that summarizes some of my recent research.
