@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-18'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -14,20 +14,20 @@ papers:
     title: Sharp thresholds in adaptive random graph processes
     year: '2024'
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
-    citations: 6
+    citations: 7
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2024'
   C-VEgMkAAAAJ:8k81kl-MbHgC:
-    citations: 13
+    citations: 14
     title: Prophet matching in the probe-commit model
     year: '2022'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
-    citations: 5
+    citations: 6
     title: Building Hamiltonian cycles in the semi-random graph process in less than 2n rounds
     year: '2025'
   C-VEgMkAAAAJ:IWHjjKOFINEC:
     citations: 2
-    title: Proportionally Fair Matching via Randomized Rounding
+    title: Proportionally fair matching via randomized rounding
     year: '2025'
   C-VEgMkAAAAJ:L8Ckcad2t8MC:
     citations: 1
@@ -38,7 +38,7 @@ papers:
     title: The phase transition of discrepancy in random hypergraphs
     year: '2023'
   C-VEgMkAAAAJ:MXK_kJrjxJIC:
-    citations: 34
+    citations: 33
     title: On (random-order) online contention resolution schemes for the matching polytope of (bipartite) graphs
     year: '2025'
   C-VEgMkAAAAJ:Se3iqnhoufwC:
@@ -54,7 +54,7 @@ papers:
     title: Injective colouring of binomial random graphs
     year: Unknown Year
   C-VEgMkAAAAJ:UebtZRa9Y70C:
-    citations: 10
+    citations: 9
     title: Secretary matching meets probing with commitment
     year: '2021'
   C-VEgMkAAAAJ:WF5omc3nYNoC:
@@ -68,9 +68,9 @@ papers:
   C-VEgMkAAAAJ:_kc_bZDykSQC:
     citations: 6
     title: "Extending wormald\u2019s differential equation method to one-sided bounds"
-    year: '2024'
+    year: '2025'
   C-VEgMkAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 20
     title: Probabilistic zero forcing on random graphs
     year: '2021'
   C-VEgMkAAAAJ:eQOLeE2rZwMC:
@@ -82,15 +82,15 @@ papers:
     title: Forward-backward Contention Resolution Schemes for Fair Rationing
     year: '2025'
   C-VEgMkAAAAJ:mVmsd5A6BfQC:
-    citations: 17
+    citations: 18
     title: 'Random-order Contention Resolution via Continuous Induction: Tightness for Bipartite Matching under Vertex Arrivals'
     year: '2024'
   C-VEgMkAAAAJ:qUcmZB5y_30C:
-    citations: 12
+    citations: 13
     title: A fully adaptive strategy for hamiltonian cycles in the semi-random graph process
     year: '2022'
   C-VEgMkAAAAJ:qjMakFHDy7sC:
-    citations: 9
+    citations: 10
     title: Localization game for random graphs
     year: '2022'
   C-VEgMkAAAAJ:qxL8FJ1GzNcC:
@@ -98,7 +98,7 @@ papers:
     title: 'Online decision-making in a randomized environment: Stochastic matching and adaptive random graph processes'
     year: '2023'
   C-VEgMkAAAAJ:roLk4NBRz8UC:
-    citations: 22
+    citations: 23
     title: Algorithms for p-Faulty Search on a Half-Line
     year: '2023'
   C-VEgMkAAAAJ:zYLM7Y9cAGgC:
