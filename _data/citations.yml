@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-03-02'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
     title: Optimizing transport frequency in multi-layered urban transportation networks for pandemic prevention
     year: '2024'
   C-VEgMkAAAAJ:4TOpqqG69KYC:
-    citations: 14
+    citations: 15
     title: Online bipartite matching in the probe-commit model
     year: '2025'
   C-VEgMkAAAAJ:5nxA0vEk-isC:
@@ -18,7 +18,7 @@ papers:
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2024'
   C-VEgMkAAAAJ:8k81kl-MbHgC:
-    citations: 14
+    citations: 15
     title: Prophet matching in the probe-commit model
     year: '2022'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
@@ -54,7 +54,7 @@ papers:
     title: Injective colouring of binomial random graphs
     year: Unknown Year
   C-VEgMkAAAAJ:UebtZRa9Y70C:
-    citations: 9
+    citations: 10
     title: Secretary matching meets probing with commitment
     year: '2021'
   C-VEgMkAAAAJ:WF5omc3nYNoC:
@@ -70,7 +70,7 @@ papers:
     title: "Extending wormald\u2019s differential equation method to one-sided bounds"
     year: '2025'
   C-VEgMkAAAAJ:d1gkVwhDpl0C:
-    citations: 20
+    citations: 21
     title: Probabilistic zero forcing on random graphs
     year: '2021'
   C-VEgMkAAAAJ:eQOLeE2rZwMC:
