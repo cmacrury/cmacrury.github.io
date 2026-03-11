@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   <p>Groseclose Building, Office 326 </p>
+   <p>Groseclose, Office 326 </p>
     <p>765 Ferst Drive NW </p>
     <p>Atlanta, GA 30332 </p>
 
