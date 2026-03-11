@@ -4,6 +4,24 @@
 @string{aps = {American Physical Society,}}
 
 
+@article{derakshan2026query,
+  author       = {Mahsa Derakhshan and
+                  Andisheh Ghasemi and
+                  Calum MacRury},
+  title        = {Approximation Algorithms for Action-Reward Query-Commit Matching},
+  year         = {2026},
+abstract = {Matching problems under uncertainty arise in applications such as kidney exchange, hiring, and online marketplaces. A decision-maker must sequentially explore potential matches under local exploration constraints, while committing irrevocably to successful matches as they are revealed. The \emph{query-commit matching problem} captures these challenges by modeling edges that succeed independently with known probabilities and must be accepted upon success, subject to vertex patience (time-out) constraints limiting the number of incident queries.
+
+
+In this work, we introduce the \emph{action-reward query-commit matching problem}, a strict generalization of query-commit matching in which each query selects an action from a known action space, determining both the success probability and the reward of the queried edge. If an edge is queried using a chosen action and succeeds, it is irrevocably added to the matching, and the corresponding reward is obtained; otherwise, the edge is permanently discarded. We study the design of approximation algorithms for this problem on bipartite graphs.
+
+This model captures a broad class of stochastic matching problems, including the \emph{sequential pricing problem}  introduced by Pollner, Roghani, Saberi, and Wajc (EC~2022). For this problem, computing the optimal policy is NP-hard even when one side of the bipartite graph consists of a single vertex. On the positive side, Pollner et al.\ designed a polynomial-time approximation algorithm achieving a ratio of $0.426$ in the one-sided patience setting, which degrades to $0.395$ when both sides have bounded patience.  These guarantees rely on a linear program that cannot be rounded beyond a factor of $0.544$ in the worst case.
+
+
+In this work, we design computationally efficient algorithms for the action-reward query-commit in one-sided and two-sided patience settings, achieving
+approximation ratios of $1-1/e \approx 0.63$ and $\frac{1}{27}\!\left(19-67/e^3\right) \approx 0.58$ respectively. These results improve the state of the art for the sequential pricing problem, surpassing the previous guarantees of $0.426$ and $0.395$. A key ingredient in our approach is a new configuration linear program that enables more effective rounding.},
+}
+
 
 
 

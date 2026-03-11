@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   <p>Kravis Building</p>
-    <p>665 W 130th St</p>
-    <p>New York, New York 10025</p>
+   <p>Groseclose Building, Office 326 </p>
+    <p>765 Ferst Drive NW </p>
+    <p>Atlanta, GA 30332 </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Postdoctoral Research Scholar at Columbia Business School where I'm advised by Will Ma. 
-Previously, I obtained my PhD from the Department of Computer Science at the University of Toronto under the supervision
-of Allan Borodin. I'm fortunate to be supported by an NSERC Postdoctoral Fellowship (PDF).
+I'm an Assistant Professor at Georgia Tech in the H. Milton Steward School of Industrial and Systems Engineering (ISyE).
 
-I'll be joining Georgia Tech as an Assistant Professor in Spring 2026 in the H. Milton Steward School of Industrial and Systems Engineering (ISyE).
+Previously, I was a Postdoctoral Research Scholar at Columbia Business School where I was advised by Will Ma. 
+Before that, I obtained my PhD from the Department of Computer Science at the University of Toronto under the supervision
+of Allan Borodin.
 
 I'm interested in optimization under uncertainty, particularly in the presence of randomness. 
 This includes problems such as prophet inequalities, assortment optimization, and stochastic matching. A focus
