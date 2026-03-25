@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-03-25'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -81,6 +81,10 @@ papers:
     citations: 1
     title: Forward-backward Contention Resolution Schemes for Fair Rationing
     year: '2025'
+  C-VEgMkAAAAJ:mB3voiENLucC:
+    citations: 0
+    title: Approximation Algorithms for Action-Reward Query-Commit Matching
+    year: '2026'
   C-VEgMkAAAAJ:mVmsd5A6BfQC:
     citations: 19
     title: 'Random-order Contention Resolution via Continuous Induction: Tightness for Bipartite Matching under Vertex Arrivals'
