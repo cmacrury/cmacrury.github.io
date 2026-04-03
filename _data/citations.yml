@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-03'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
     title: Optimizing transport frequency in multi-layered urban transportation networks for pandemic prevention
     year: '2024'
   C-VEgMkAAAAJ:4TOpqqG69KYC:
-    citations: 15
+    citations: 16
     title: Online bipartite matching in the probe-commit model
     year: '2025'
   C-VEgMkAAAAJ:5nxA0vEk-isC:
@@ -16,7 +16,7 @@ papers:
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
     citations: 9
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
-    year: '2024'
+    year: '2026'
   C-VEgMkAAAAJ:8k81kl-MbHgC:
     citations: 15
     title: Prophet matching in the probe-commit model
@@ -38,7 +38,7 @@ papers:
     title: The phase transition of discrepancy in random hypergraphs
     year: '2023'
   C-VEgMkAAAAJ:MXK_kJrjxJIC:
-    citations: 34
+    citations: 36
     title: On (random-order) online contention resolution schemes for the matching polytope of (bipartite) graphs
     year: '2025'
   C-VEgMkAAAAJ:Se3iqnhoufwC:
@@ -86,7 +86,7 @@ papers:
     title: Approximation Algorithms for Action-Reward Query-Commit Matching
     year: '2026'
   C-VEgMkAAAAJ:mVmsd5A6BfQC:
-    citations: 19
+    citations: 20
     title: 'Random-order Contention Resolution via Continuous Induction: Tightness for Bipartite Matching under Vertex Arrivals'
     year: '2024'
   C-VEgMkAAAAJ:qUcmZB5y_30C:
