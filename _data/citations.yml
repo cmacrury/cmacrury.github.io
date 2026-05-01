@@ -1,12 +1,16 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-05-01'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
     title: Optimizing transport frequency in multi-layered urban transportation networks for pandemic prevention
     year: '2024'
+  C-VEgMkAAAAJ:4JMBOYKVnBMC:
+    citations: 10
+    title: Secretary matching meets probing with commitment
+    year: '2021'
   C-VEgMkAAAAJ:4TOpqqG69KYC:
-    citations: 16
+    citations: 17
     title: Online bipartite matching in the probe-commit model
     year: '2025'
   C-VEgMkAAAAJ:5nxA0vEk-isC:
@@ -17,10 +21,6 @@ papers:
     citations: 9
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2026'
-  C-VEgMkAAAAJ:8k81kl-MbHgC:
-    citations: 15
-    title: Prophet matching in the probe-commit model
-    year: '2022'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
     citations: 6
     title: Building Hamiltonian cycles in the semi-random graph process in less than 2n rounds
@@ -38,7 +38,7 @@ papers:
     title: The phase transition of discrepancy in random hypergraphs
     year: '2023'
   C-VEgMkAAAAJ:MXK_kJrjxJIC:
-    citations: 36
+    citations: 37
     title: On (random-order) online contention resolution schemes for the matching polytope of (bipartite) graphs
     year: '2025'
   C-VEgMkAAAAJ:Se3iqnhoufwC:
@@ -53,10 +53,6 @@ papers:
     citations: 2
     title: Injective colouring of binomial random graphs
     year: Unknown Year
-  C-VEgMkAAAAJ:UebtZRa9Y70C:
-    citations: 10
-    title: Secretary matching meets probing with commitment
-    year: '2021'
   C-VEgMkAAAAJ:WF5omc3nYNoC:
     citations: 9
     title: The robot crawler graph process
@@ -65,6 +61,10 @@ papers:
     citations: 1
     title: Approximation algorithms for network flow and minimum cut problems
     year: '2019'
+  C-VEgMkAAAAJ:_Qo2XoVZTnwC:
+    citations: 38
+    title: Improved guarantees for offline stochastic matching via new ordered contention resolution schemes
+    year: '2025'
   C-VEgMkAAAAJ:_kc_bZDykSQC:
     citations: 6
     title: "Extending wormald\u2019s differential equation method to one-sided bounds"
@@ -81,6 +81,10 @@ papers:
     citations: 1
     title: Forward-backward Contention Resolution Schemes for Fair Rationing
     year: '2025'
+  C-VEgMkAAAAJ:j3f4tGmQtD8C:
+    citations: 15
+    title: Prophet matching in the probe-commit model
+    year: '2022'
   C-VEgMkAAAAJ:mB3voiENLucC:
     citations: 0
     title: Approximation Algorithms for Action-Reward Query-Commit Matching
