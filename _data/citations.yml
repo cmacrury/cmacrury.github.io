@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-15'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Sharp thresholds in adaptive random graph processes
     year: '2024'
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
-    citations: 9
+    citations: 11
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2026'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
@@ -70,7 +70,7 @@ papers:
     title: "Extending wormald\u2019s differential equation method to one-sided bounds"
     year: '2025'
   C-VEgMkAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 22
     title: Probabilistic zero forcing on random graphs
     year: '2021'
   C-VEgMkAAAAJ:eQOLeE2rZwMC:
