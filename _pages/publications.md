@@ -11,13 +11,13 @@ nav: true
 nav_order: 2
 ---
 
-
+<!--
 <h1 class="post-title">
 <font size="5.5">
 Working Papers
 </font>
 </h1>
-
+-->
 
 <div class="publications">
 
