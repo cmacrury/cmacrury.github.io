@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-17'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Sharp thresholds in adaptive random graph processes
     year: '2024'
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
-    citations: 11
+    citations: 12
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2026'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
