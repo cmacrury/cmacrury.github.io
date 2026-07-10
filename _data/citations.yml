@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-10'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Sharp thresholds in adaptive random graph processes
     year: '2024'
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
-    citations: 12
+    citations: 13
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2026'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
@@ -26,11 +26,11 @@ papers:
     title: Building Hamiltonian cycles in the semi-random graph process in less than 2n rounds
     year: '2025'
   C-VEgMkAAAAJ:IWHjjKOFINEC:
-    citations: 2
+    citations: 3
     title: Proportionally fair matching via randomized rounding
     year: '2025'
   C-VEgMkAAAAJ:L8Ckcad2t8MC:
-    citations: 3
+    citations: 5
     title: Online Matching and Contention Resolution for Edge Arrivals with Vanishing Probabilities
     year: '2024'
   C-VEgMkAAAAJ:LkGwnXOMwfcC:
@@ -38,7 +38,7 @@ papers:
     title: The phase transition of discrepancy in random hypergraphs
     year: '2023'
   C-VEgMkAAAAJ:MXK_kJrjxJIC:
-    citations: 37
+    citations: 39
     title: On (random-order) online contention resolution schemes for the matching polytope of (bipartite) graphs
     year: '2025'
   C-VEgMkAAAAJ:Se3iqnhoufwC:
@@ -62,7 +62,7 @@ papers:
     title: Approximation algorithms for network flow and minimum cut problems
     year: '2019'
   C-VEgMkAAAAJ:_Qo2XoVZTnwC:
-    citations: 38
+    citations: 39
     title: Improved guarantees for offline stochastic matching via new ordered contention resolution schemes
     year: '2025'
   C-VEgMkAAAAJ:_kc_bZDykSQC:
@@ -78,11 +78,11 @@ papers:
     title: Zero-forcing in random regular graphs
     year: '2021'
   C-VEgMkAAAAJ:hC7cP41nSMkC:
-    citations: 1
+    citations: 2
     title: Forward-backward Contention Resolution Schemes for Fair Rationing
     year: '2025'
   C-VEgMkAAAAJ:j3f4tGmQtD8C:
-    citations: 15
+    citations: 16
     title: Prophet matching in the probe-commit model
     year: '2022'
   C-VEgMkAAAAJ:mB3voiENLucC:
@@ -90,7 +90,7 @@ papers:
     title: Approximation Algorithms for Action-Reward Query-Commit Matching
     year: '2026'
   C-VEgMkAAAAJ:mVmsd5A6BfQC:
-    citations: 20
+    citations: 21
     title: 'Random-order Contention Resolution via Continuous Induction: Tightness for Bipartite Matching under Vertex Arrivals'
     year: '2024'
   C-VEgMkAAAAJ:qUcmZB5y_30C:
