@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-22'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Sharp thresholds in adaptive random graph processes
     year: '2024'
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
-    citations: 13
+    citations: 14
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2026'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
@@ -30,7 +30,7 @@ papers:
     title: Proportionally fair matching via randomized rounding
     year: '2025'
   C-VEgMkAAAAJ:L8Ckcad2t8MC:
-    citations: 5
+    citations: 6
     title: Online Matching and Contention Resolution for Edge Arrivals with Vanishing Probabilities
     year: '2024'
   C-VEgMkAAAAJ:LkGwnXOMwfcC:
@@ -90,7 +90,7 @@ papers:
     title: Approximation Algorithms for Action-Reward Query-Commit Matching
     year: '2026'
   C-VEgMkAAAAJ:mVmsd5A6BfQC:
-    citations: 21
+    citations: 22
     title: 'Random-order Contention Resolution via Continuous Induction: Tightness for Bipartite Matching under Vertex Arrivals'
     year: '2024'
   C-VEgMkAAAAJ:qUcmZB5y_30C:
