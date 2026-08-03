@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
-    title: Optimizing transport frequency in multi-layered urban transportation networks for pandemic prevention
+    title: 'Optimizing transport frequency in multi-layered urban transportation networks for pandemic prevention: C. MacRury et al.'
     year: '2024'
   C-VEgMkAAAAJ:4JMBOYKVnBMC:
     citations: 10
     title: Secretary matching meets probing with commitment
     year: '2021'
   C-VEgMkAAAAJ:4TOpqqG69KYC:
-    citations: 17
+    citations: 18
     title: Online bipartite matching in the probe-commit model
     year: '2025'
   C-VEgMkAAAAJ:5nxA0vEk-isC:
-    citations: 9
+    citations: 10
     title: Sharp thresholds in adaptive random graph processes
     year: '2024'
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
@@ -22,7 +22,7 @@ papers:
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2026'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
-    citations: 6
+    citations: 7
     title: Building Hamiltonian cycles in the semi-random graph process in less than 2n rounds
     year: '2025'
   C-VEgMkAAAAJ:IWHjjKOFINEC:
@@ -30,7 +30,7 @@ papers:
     title: Proportionally fair matching via randomized rounding
     year: '2025'
   C-VEgMkAAAAJ:L8Ckcad2t8MC:
-    citations: 6
+    citations: 7
     title: Online Matching and Contention Resolution for Edge Arrivals with Vanishing Probabilities
     year: '2024'
   C-VEgMkAAAAJ:LkGwnXOMwfcC:
@@ -38,11 +38,11 @@ papers:
     title: The phase transition of discrepancy in random hypergraphs
     year: '2023'
   C-VEgMkAAAAJ:MXK_kJrjxJIC:
-    citations: 39
+    citations: 43
     title: On (random-order) online contention resolution schemes for the matching polytope of (bipartite) graphs
     year: '2025'
   C-VEgMkAAAAJ:Se3iqnhoufwC:
-    citations: 18
+    citations: 19
     title: Perfect matchings in the semirandom graph process
     year: '2022'
   C-VEgMkAAAAJ:Tyk-4Ss8FVUC:
@@ -62,7 +62,7 @@ papers:
     title: Approximation algorithms for network flow and minimum cut problems
     year: '2019'
   C-VEgMkAAAAJ:_Qo2XoVZTnwC:
-    citations: 39
+    citations: 38
     title: Improved guarantees for offline stochastic matching via new ordered contention resolution schemes
     year: '2025'
   C-VEgMkAAAAJ:_kc_bZDykSQC:
@@ -86,11 +86,11 @@ papers:
     title: Prophet matching in the probe-commit model
     year: '2022'
   C-VEgMkAAAAJ:mB3voiENLucC:
-    citations: 0
+    citations: 1
     title: Approximation Algorithms for Action-Reward Query-Commit Matching
     year: '2026'
   C-VEgMkAAAAJ:mVmsd5A6BfQC:
-    citations: 22
+    citations: 23
     title: 'Random-order Contention Resolution via Continuous Induction: Tightness for Bipartite Matching under Vertex Arrivals'
     year: '2024'
   C-VEgMkAAAAJ:qUcmZB5y_30C:
@@ -98,7 +98,7 @@ papers:
     title: A fully adaptive strategy for hamiltonian cycles in the semi-random graph process
     year: '2022'
   C-VEgMkAAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 11
     title: Localization game for random graphs
     year: '2022'
   C-VEgMkAAAAJ:qxL8FJ1GzNcC:
@@ -110,6 +110,6 @@ papers:
     title: Algorithms for p-Faulty Search on a Half-Line
     year: '2023'
   C-VEgMkAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: Distribution of coefficients of rank polynomials for random sparse graphs
     year: '2018'
