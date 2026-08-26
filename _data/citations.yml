@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-26'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: Online bipartite matching in the probe-commit model
     year: '2025'
   C-VEgMkAAAAJ:5nxA0vEk-isC:
-    citations: 10
+    citations: 11
     title: Sharp thresholds in adaptive random graph processes
     year: '2024'
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
@@ -22,7 +22,7 @@ papers:
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2026'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
-    citations: 7
+    citations: 8
     title: Building Hamiltonian cycles in the semi-random graph process in less than 2n rounds
     year: '2025'
   C-VEgMkAAAAJ:IWHjjKOFINEC:
@@ -34,7 +34,7 @@ papers:
     title: Online Matching and Contention Resolution for Edge Arrivals with Vanishing Probabilities
     year: '2024'
   C-VEgMkAAAAJ:LkGwnXOMwfcC:
-    citations: 8
+    citations: 9
     title: The phase transition of discrepancy in random hypergraphs
     year: '2023'
   C-VEgMkAAAAJ:MXK_kJrjxJIC:
@@ -42,11 +42,11 @@ papers:
     title: On (random-order) online contention resolution schemes for the matching polytope of (bipartite) graphs
     year: '2025'
   C-VEgMkAAAAJ:Se3iqnhoufwC:
-    citations: 19
+    citations: 20
     title: Perfect matchings in the semirandom graph process
     year: '2022'
   C-VEgMkAAAAJ:Tyk-4Ss8FVUC:
-    citations: 20
+    citations: 21
     title: Hamilton cycles in the semi-random graph process
     year: '2022'
   C-VEgMkAAAAJ:UeHWp8X0CEIC:
@@ -62,7 +62,7 @@ papers:
     title: Approximation algorithms for network flow and minimum cut problems
     year: '2019'
   C-VEgMkAAAAJ:_Qo2XoVZTnwC:
-    citations: 38
+    citations: 39
     title: Improved guarantees for offline stochastic matching via new ordered contention resolution schemes
     year: '2025'
   C-VEgMkAAAAJ:_kc_bZDykSQC:
@@ -94,7 +94,7 @@ papers:
     title: 'Random-order Contention Resolution via Continuous Induction: Tightness for Bipartite Matching under Vertex Arrivals'
     year: '2024'
   C-VEgMkAAAAJ:qUcmZB5y_30C:
-    citations: 13
+    citations: 14
     title: A fully adaptive strategy for hamiltonian cycles in the semi-random graph process
     year: '2022'
   C-VEgMkAAAAJ:qjMakFHDy7sC:
