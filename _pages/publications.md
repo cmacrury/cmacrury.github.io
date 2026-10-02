@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description:
-years-working-papers: [2026,2025,2024]
+years-working-papers: [2026,2025,2024,2026]
 years-accepted-papers: [2026,2025,2024,2023,2022,2021,2018]
 years-unpublished-papers: [2020,2016]
 
@@ -11,13 +11,13 @@ nav: true
 nav_order: 2
 ---
 
-<!--
+
 <h1 class="post-title">
 <font size="5.5">
 Working Papers
 </font>
 </h1>
--->
+
 
 <div class="publications">
 
