@@ -1,62 +1,58 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-08-26'
 papers:
   C-VEgMkAAAAJ:3fE2CSJIrl8C:
     citations: 3
-    title: Optimizing transport frequency in multi-layered urban transportation networks for pandemic prevention
+    title: 'Optimizing transport frequency in multi-layered urban transportation networks for pandemic prevention: C. MacRury et al.'
     year: '2024'
+  C-VEgMkAAAAJ:4JMBOYKVnBMC:
+    citations: 10
+    title: Secretary matching meets probing with commitment
+    year: '2021'
   C-VEgMkAAAAJ:4TOpqqG69KYC:
-    citations: 16
+    citations: 18
     title: Online bipartite matching in the probe-commit model
     year: '2025'
   C-VEgMkAAAAJ:5nxA0vEk-isC:
-    citations: 9
+    citations: 11
     title: Sharp thresholds in adaptive random graph processes
     year: '2024'
   C-VEgMkAAAAJ:7PzlFSSx8tAC:
-    citations: 9
+    citations: 14
     title: Online contention resolution schemes for network revenue management and combinatorial auctions
     year: '2026'
-  C-VEgMkAAAAJ:8k81kl-MbHgC:
-    citations: 15
-    title: Prophet matching in the probe-commit model
-    year: '2022'
   C-VEgMkAAAAJ:9ZlFYXVOiuMC:
-    citations: 6
+    citations: 8
     title: Building Hamiltonian cycles in the semi-random graph process in less than 2n rounds
     year: '2025'
   C-VEgMkAAAAJ:IWHjjKOFINEC:
-    citations: 2
+    citations: 3
     title: Proportionally fair matching via randomized rounding
     year: '2025'
   C-VEgMkAAAAJ:L8Ckcad2t8MC:
-    citations: 3
+    citations: 7
     title: Online Matching and Contention Resolution for Edge Arrivals with Vanishing Probabilities
     year: '2024'
   C-VEgMkAAAAJ:LkGwnXOMwfcC:
-    citations: 8
+    citations: 9
     title: The phase transition of discrepancy in random hypergraphs
     year: '2023'
   C-VEgMkAAAAJ:MXK_kJrjxJIC:
-    citations: 36
+    citations: 43
     title: On (random-order) online contention resolution schemes for the matching polytope of (bipartite) graphs
     year: '2025'
   C-VEgMkAAAAJ:Se3iqnhoufwC:
-    citations: 18
+    citations: 20
     title: Perfect matchings in the semirandom graph process
     year: '2022'
   C-VEgMkAAAAJ:Tyk-4Ss8FVUC:
-    citations: 20
+    citations: 21
     title: Hamilton cycles in the semi-random graph process
     year: '2022'
   C-VEgMkAAAAJ:UeHWp8X0CEIC:
     citations: 2
     title: Injective colouring of binomial random graphs
     year: Unknown Year
-  C-VEgMkAAAAJ:UebtZRa9Y70C:
-    citations: 10
-    title: Secretary matching meets probing with commitment
-    year: '2021'
   C-VEgMkAAAAJ:WF5omc3nYNoC:
     citations: 9
     title: The robot crawler graph process
@@ -65,12 +61,16 @@ papers:
     citations: 1
     title: Approximation algorithms for network flow and minimum cut problems
     year: '2019'
+  C-VEgMkAAAAJ:_Qo2XoVZTnwC:
+    citations: 39
+    title: Improved guarantees for offline stochastic matching via new ordered contention resolution schemes
+    year: '2025'
   C-VEgMkAAAAJ:_kc_bZDykSQC:
     citations: 6
     title: "Extending wormald\u2019s differential equation method to one-sided bounds"
     year: '2025'
   C-VEgMkAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 22
     title: Probabilistic zero forcing on random graphs
     year: '2021'
   C-VEgMkAAAAJ:eQOLeE2rZwMC:
@@ -78,23 +78,27 @@ papers:
     title: Zero-forcing in random regular graphs
     year: '2021'
   C-VEgMkAAAAJ:hC7cP41nSMkC:
-    citations: 1
+    citations: 2
     title: Forward-backward Contention Resolution Schemes for Fair Rationing
     year: '2025'
+  C-VEgMkAAAAJ:j3f4tGmQtD8C:
+    citations: 16
+    title: Prophet matching in the probe-commit model
+    year: '2022'
   C-VEgMkAAAAJ:mB3voiENLucC:
-    citations: 0
+    citations: 1
     title: Approximation Algorithms for Action-Reward Query-Commit Matching
     year: '2026'
   C-VEgMkAAAAJ:mVmsd5A6BfQC:
-    citations: 20
+    citations: 23
     title: 'Random-order Contention Resolution via Continuous Induction: Tightness for Bipartite Matching under Vertex Arrivals'
     year: '2024'
   C-VEgMkAAAAJ:qUcmZB5y_30C:
-    citations: 13
+    citations: 14
     title: A fully adaptive strategy for hamiltonian cycles in the semi-random graph process
     year: '2022'
   C-VEgMkAAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 11
     title: Localization game for random graphs
     year: '2022'
   C-VEgMkAAAAJ:qxL8FJ1GzNcC:
@@ -106,6 +110,6 @@ papers:
     title: Algorithms for p-Faulty Search on a Half-Line
     year: '2023'
   C-VEgMkAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: Distribution of coefficients of rank polynomials for random sparse graphs
     year: '2018'
