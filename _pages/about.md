@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   <p>Groseclose, Office 326 </p>
-    <p>765 Ferst Drive NW </p>
+   <p>George Tower, Office 1716 </p>
+    <p>55 5th Street NW, Atlanta  </p>
     <p>Atlanta, GA 30332 </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
