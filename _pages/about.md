@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an Assistant Professor at Georgia Tech in the H. Milton Steward School of Industrial and Systems Engineering (ISyE).
+I'm an Assistant Professor at Georgia Tech in the H. Milton Stewart School of Industrial and Systems Engineering (ISyE).
 
 Previously, I was a Postdoctoral Research Scholar at Columbia Business School where I was advised by Will Ma. 
 Before that, I obtained my PhD from the Department of Computer Science at the University of Toronto under the supervision
