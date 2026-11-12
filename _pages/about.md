@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
    <p>George Tower, Office 1716 </p>
-    <p>55 5th Street NW, Atlanta </p>
+    <p>55 5th Street NW </p>
     <p>Atlanta, GA 30332 </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
